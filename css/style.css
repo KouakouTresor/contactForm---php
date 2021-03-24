@@ -1,0 +1,20 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.0/font/bootstrap-icons.css");
+
+body{
+    font-family: 'Playfair Display', serif;
+}
+
+.divider
+{
+    width:100px;
+    height: 2px;
+    background: #ffa500;
+    margin: 0 auto;
+}
+
+.formContent{
+    box-shadow: 0 6px 20px rgba(56, 125, 255, 0.17);
+    -webkit-filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    border-radius: 10px
+} 
